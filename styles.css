@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+body{
+	height: 100%;
+	background-color: rgb(204, 204, 204);
+	padding: 5px;
+	}
+h1{
+	text-align:center;
+}
+h2{
+	text-align:center;
+}
+.listbox{
+	background-color: #fff;
+	border: 2px solid black;
+	border-radius: 5px;
+	list-style-type: none;
+}
+.listbox ul a{
+	text-decoration-line: none;
+		list-style-type: none;
+	color: #000;
+}
+audio, video{
+	width: 100%;
+	
+}
+.sortVideo{
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 5px;
+	border: 2px solid #000;
+}
+
+p{
+	font-family: arial;
+}
